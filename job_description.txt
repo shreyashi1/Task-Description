@@ -1,0 +1,6 @@
+
+We are looking for a Python developer with:
+- 3+ years of Python experience
+- Knowledge of machine learning
+- Experience with pandas, NumPy
+- Strong communication skills

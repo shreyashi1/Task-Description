@@ -1,0 +1,11 @@
+
+John Doe
+Email: john.doe@example.com
+
+EXPERIENCE:
+- Python Developer at ABC Corp (3 years)
+- Built machine learning models with sklearn
+- Used pandas for data analysis
+
+SKILLS:
+Python, Machine Learning, Data Analysis
